@@ -25,7 +25,7 @@ Interaktywne Okno Szczegółów Lotu:
 Dotknięcie ikony samolotu bezpośrednio na ekranie mapy powoduje otwarcie okna dialogowego z pełnymi parametrami wybranej maszyny.
 Sterowanie Dotykowe i Pauza:
 Kliknięcie w lewy górny róg ekranu (`x < 100`, `y < 40`) wstrzymuje automatyczną rotację stron (`[ PAUZA ]`), ułatwiając dokładną analizę danych.
----
+---Projekt udostępniony w celach edukacyjnych oraz dla społeczności krótkofalarskiej. 73 de SP3PM! 
 📂 Plik Konfiguracyjny ESPHome (`cyd-adsb-radar.yaml`)
 Kompletny, zoptymalizowany kod konfiguracyjny dla oprogramowania ESPHome:
 ```yaml
